@@ -1,0 +1,33 @@
+body{
+  background-color: lightgrey;
+  font-family: 'Roboto', sans-serif;
+}
+
+#title{
+  display: flex;
+  justify-content: center;
+}
+
+#pic-intro{
+  background-color:white;
+  border-radius: 9px;
+}
+
+#img-div{
+  display: flex;
+  flex-direction: column;
+justify-content: center; 
+align-items: center;
+}
+
+#image{
+  height: auto;
+  width: 75%;
+  max-width: 800px;
+  padding-top: 10px;
+}
+
+#img-caption{
+   display: flex;
+  justify-content: center;
+}
