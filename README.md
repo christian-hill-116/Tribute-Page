@@ -2,7 +2,7 @@
 
 Using HTML and CSS to learn about responsiveness.
 
-Used Flexbox as the display property. I like how efficient it is.
+I utilized the Flexbox as the display property. I like how efficient it is.
 
 
  Link:
